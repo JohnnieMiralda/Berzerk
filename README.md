@@ -13,12 +13,9 @@ El enfatiso en que el juego debe ser jugable pero
 al mismo tiempo no ser tan simple, se proponen los
 siguientes objetivos a alcanzar:
 
-1)Creacion de 2-4 Stages o mapas jugables
+1)Creacion de Stages 
 2)Movimiento libre y ataque del jugador
 3)Creacion de enemigos que ataquen al jugador
 4)Dificultad incrementativa
 5)Puntuacion 
-6)Menu del juego
-7)Implementar cantidad de vidas
-
-
+6)Implementar cantidad de vidas
